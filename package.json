@@ -21,5 +21,8 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
     "request": "^2.85.0"
+  },
+  "engines": {
+    "node": "6.9.1"
   }
 }
